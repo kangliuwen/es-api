@@ -6,12 +6,9 @@ import lombok.NoArgsConstructor;
 import org.springframework.stereotype.Component;
 
 /**
- *
- *
- *@description:
- *@author: klw
- *@time: 2020-10-12 11:08
- *
+ * @description:
+ * @author: klw
+ * @time: 2020-10-12 11:08
  */
 @Data
 @Component
